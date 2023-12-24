@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>He.jpg</file>
+        <file>off.png</file>
+        <file>on.png</file>
+        <file>rug.jpg</file>
+        <file>startPage.png</file>
+    </qresource>
+</RCC>

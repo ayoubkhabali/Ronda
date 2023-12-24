@@ -1,0 +1,13 @@
+release/card.o
+release/cardspage.o
+release/clickablepixmapitem.o
+release/deckofcards.o
+release/main.o
+release/mainwindow.o
+release/player.o
+release/starterpage.o
+release/qrc_cards.o
+release/moc_cardspage.o
+release/moc_clickablepixmapitem.o
+release/moc_mainwindow.o
+release/moc_starterpage.o
